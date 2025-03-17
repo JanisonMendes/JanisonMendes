@@ -28,7 +28,7 @@ Meu objetivo é usar minhas habilidades em análise e visualização de dados pa
 Estou constantemente aprendendo novas técnicas e melhorando minhas habilidades, seja por meio de cursos, tutoriais ou projetos práticos.
 
 Vamos conversar sobre dados! Me envie uma mensagem para discutirmos projetos e aprender juntos. 
- janisonmedes1@gmail.com
+
 <div>
  <p>Social:</p>
  <a href="https://www.linkedin.com/in/janison-mendes-01b8a0205/">
