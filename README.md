@@ -28,6 +28,22 @@ Meu objetivo é usar minhas habilidades em análise e visualização de dados pa
 Estou constantemente aprendendo novas técnicas e melhorando minhas habilidades, seja por meio de cursos, tutoriais ou projetos práticos.
 
 Vamos conversar sobre dados! Me envie uma mensagem para discutirmos projetos e aprender juntos. 
+ janisonmedes1@gmail.com
+<div>
+ <p>Social:</p>
+ <a href="https://www.linkedin.com/in/janison-mendes-01b8a0205/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
 
-🔗 [LinkedIn](https://www.linkedin.com/in/janison-mendes-01b8a0205/) | 📧 janisonmedes1@gmail.com
+<div>
+ <p>Email:</p>
+  </a>
+ <a href="mailto:janisonmedes1@gmail.com">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+ </a>
+ <a href="mailto: janisonmedes1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+</div>
+
 
