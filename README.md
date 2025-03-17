@@ -7,6 +7,7 @@ Sou apaixonado por **dados** 📊 e como eles podem transformar decisões em div
   <a href=https://github.com/JanisonMendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&langs_count=7&theme=dark"/>
 </div>
+Eu estou estudando:
     
 - **Python** 🐍: Análise de dados, automação e criação de modelos preditivos.
 - **R** 🧮: Análise estatística e visualização de dados.
