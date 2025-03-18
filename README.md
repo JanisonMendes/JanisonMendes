@@ -3,7 +3,7 @@
 Sou apaixonado por **dados** 📊 e como eles podem transformar decisões em diversos setores. Atualmente, estou me aprofundando em ferramentas e técnicas de **Ciência de Dados** para resolver problemas complexos e gerar insights valiosos.
 
 ## 🔧 Ferramentas e Tecnologias
-<p align="center">
+<p align="left">
     <h3 align="center">Meus status do Github:</h3>
 <a href="https://github.com/JanisonMendes">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JanisonMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
