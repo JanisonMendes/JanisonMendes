@@ -3,10 +3,13 @@
 Sou apaixonado por **dados** 📊 e como eles podem transformar decisões em diversos setores. Atualmente, estou me aprofundando em ferramentas e técnicas de **Ciência de Dados** para resolver problemas complexos e gerar insights valiosos.
 
 ## 🔧 Ferramentas e Tecnologias
- <div>
-  <a href=https://github.com/JanisonMendes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="center">
+    <h3 align="center">Meus status do Github:</h3>
+<a href="https://github.com/JanisonMendes">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JanisonMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+</p>
 Eu estou estudando:
   
 - **Python** 🐍: Análise de dados, automação e criação de modelos preditivos.
