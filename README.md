@@ -11,6 +11,7 @@ Sou apaixonado por **dados** 📊 e como eles podem transformar decisões em div
 </a>
 </p>
 Eu estou estudando:
+
   
 - **Python** 🐍: Análise de dados, automação e criação de modelos preditivos.
 - **R** 🧮: Análise estatística e visualização de dados.
