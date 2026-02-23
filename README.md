@@ -16,23 +16,23 @@ Atualmente desenvolvo projetos práticos envolvendo **análise exploratória**, 
 ---
 
 ## Tecnologias e Ferramentas
+
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **SQL**: consultas analíticas, joins, agregações, CTEs  
-- **Estatística**: análise descritiva, correlação, testes de hipóteses  
+- **Estatística**: análise descritiva, testes de hipóteses  
 - **Machine Learning**: regressão, classificação e clustering  
 - **Visualização de Dados**: Power BI, Tableau  
 - **Versionamento**: Git e GitHub  
-
 ---
 
-## GitHub Stats
+## Estatísticas do GitHub
+
 <p align="left">
   <a href="https://github.com/JanisonMendes">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JanisonMendes&show_icons=true&theme=dark"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&theme=dark"/>
   </a>
 </p>
-
 ---
 
 ## Projetos
