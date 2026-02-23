@@ -1,1 +1,69 @@
-# Olá, sou Janison! 👋 Sou apaixonado por **dados** 📊 e como eles podem transformar decisões em diversos setores. Atualmente, estou me aprofundando em ferramentas e técnicas de **Ciência de Dados** para resolver problemas complexos e gerar insights valiosos. ## 🔧 Ferramentas e Tecnologias <p align="left"> <h3 align="center">Meus status do Github:</h3> <a href="https://github.com/JanisonMendes"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JanisonMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/> </a> </p> Eu estou estudando: - **Python** 🐍: Análise de dados, automação e criação de modelos preditivos. - **R** 🧮: Análise estatística e visualização de dados. - **SQL** 🗃️: Manipulação de bancos de dados e extração de informações essenciais. - **Excel** 📈: Análises exploratórias, manipulação de dados e criação de dashboards. - **Tableau** 📊: Criação de dashboards interativos e visualizações de dados impactantes. - **Power BI** 📊: Desenvolvimento de relatórios interativos e visualizações para facilitar a tomada de decisões. ## 📊 Projetos e Contribuições Estou sempre à procura de novos desafios e projetos onde posso aplicar meu conhecimento em **análise de dados**. Se você estiver interessado, confira meus repositórios para ver alguns dos projetos que desenvolvi! ## 🚀 Meu Objetivo Meu objetivo é usar minhas habilidades em análise e visualização de dados para resolver problemas reais, explorar padrões e otimizar processos. ## 📚 Aprendizado Contínuo Estou constantemente aprendendo novas técnicas e melhorando minhas habilidades, seja por meio de cursos, tutoriais ou projetos práticos. Vamos conversar sobre dados! Me envie uma mensagem para discutirmos projetos e aprender juntos. <div> <p>Social:</p> <a href="https://www.linkedin.com/in/janison-mendes-01b8a0205/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </div> <div> <p>Email:</p> </a> <a href="mailto: janisonmedes1@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+# Janison Mendes
+
+Sou um profissional em formação com foco em **Ciência de Dados**, interessado em aplicar métodos estatísticos, programação e machine learning para análise e resolução de problemas reais orientados por dados.
+
+Atualmente desenvolvo projetos práticos envolvendo **análise exploratória**, **SQL**, **visualização de dados** e **modelagem preditiva**, buscando consolidar uma base sólida para atuação futura como Cientista de Dados.
+
+---
+
+## Sobre mim
+- Interesse em Ciência de Dados aplicada
+- Experiência com análise exploratória de dados
+- Estudo contínuo de estatística e probabilidade
+- Início em técnicas de Machine Learning
+- Foco em projetos práticos e aprendizado progressivo
+
+---
+
+## Tecnologias e Ferramentas
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **SQL**: consultas analíticas, joins, agregações, CTEs  
+- **Estatística**: análise descritiva, correlação, testes de hipóteses  
+- **Machine Learning**: regressão, classificação e clustering  
+- **Visualização de Dados**: Power BI, Tableau  
+- **Versionamento**: Git e GitHub  
+
+---
+
+## GitHub Stats
+<p align="left">
+  <a href="https://github.com/JanisonMendes">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JanisonMendes&show_icons=true&theme=dark"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&theme=dark"/>
+  </a>
+</p>
+
+---
+
+## Projetos
+Os projetos presentes neste perfil têm como objetivo demonstrar:
+- Análise e tratamento de dados
+- Extração de insights relevantes
+- Aplicação de métodos estatísticos
+- Desenvolvimento inicial de modelos preditivos
+- Clareza na comunicação de resultados
+
+---
+
+## Objetivo Profissional
+Desenvolver carreira como **Cientista de Dados**, atuando na análise, modelagem e interpretação de dados para apoiar decisões estratégicas e gerar valor para o negócio.
+
+---
+
+## Aprendizado Contínuo
+- Estatística aplicada à Ciência de Dados  
+- Machine Learning supervisionado e não supervisionado  
+- Boas práticas de código e reprodutibilidade  
+- Comunicação e storytelling com dados  
+
+---
+
+## Contato
+<div>
+  <a href="https://www.linkedin.com/in/janison-mendes-01b8a0205/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:janisonmedes1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
