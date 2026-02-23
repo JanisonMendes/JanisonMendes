@@ -1,52 +1,69 @@
-# Olá, sou Janison! 👋
+# Olá, eu sou Janison Mendes 👋  
 
-Sou apaixonado por **dados** 📊 e como eles podem transformar decisões em diversos setores. Atualmente, estou me aprofundando em ferramentas e técnicas de **Ciência de Dados** para resolver problemas complexos e gerar insights valiosos.
+🎯 **Analista de Dados em formação**, apaixonado por transformar dados em decisões estratégicas.
 
-## 🔧 Ferramentas e Tecnologias
+Tenho experiência prática com **análise exploratória**, **SQL**, **visualização de dados** e **automação**, aplicando conceitos de Ciência de Dados para resolver problemas reais.
+
+---
+
+## 🧠 Sobre mim
+- 📊 Foco em **Análise de Dados e Business Intelligence**
+- 🧩 Gosto de resolver problemas usando dados
+- 🚀 Buscando oportunidades para aplicar dados em contextos reais
+- 📚 Aprendizado contínuo em projetos práticos
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Python** – Pandas, NumPy, Matplotlib, Seaborn  
+- **SQL** – Consultas, joins, agregações, modelagem de dados  
+- **Power BI** – Dashboards interativos  
+- **Tableau** – Visualização de dados  
+- **Excel** – Análise exploratória e dashboards  
+- **Git & GitHub** – Versionamento de projetos  
+
+---
+
+## 📊 GitHub Stats
 <p align="left">
-    <h3 align="center">Meus status do Github:</h3>
-<a href="https://github.com/JanisonMendes">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JanisonMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-Eu estou estudando:
-
-  
-- **Python** 🐍: Análise de dados, automação e criação de modelos preditivos.
-- **R** 🧮: Análise estatística e visualização de dados.
-- **SQL** 🗃️: Manipulação de bancos de dados e extração de informações essenciais.
-- **Excel** 📈: Análises exploratórias, manipulação de dados e criação de dashboards.
-- **Tableau** 📊: Criação de dashboards interativos e visualizações de dados impactantes.
-- **Power BI** 📊: Desenvolvimento de relatórios interativos e visualizações para facilitar a tomada de decisões.
-
-## 📊 Projetos e Contribuições
-
-Estou sempre à procura de novos desafios e projetos onde posso aplicar meu conhecimento em **análise de dados**. Se você estiver interessado, confira meus repositórios para ver alguns dos projetos que desenvolvi!
-
-## 🚀 Meu Objetivo
-
-Meu objetivo é usar minhas habilidades em análise e visualização de dados para resolver problemas reais, explorar padrões e otimizar processos.
-
-## 📚 Aprendizado Contínuo
-
-Estou constantemente aprendendo novas técnicas e melhorando minhas habilidades, seja por meio de cursos, tutoriais ou projetos práticos.
-
-Vamos conversar sobre dados! Me envie uma mensagem para discutirmos projetos e aprender juntos. 
-
-<div>
- <p>Social:</p>
- <a href="https://www.linkedin.com/in/janison-mendes-01b8a0205/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
-
-<div>
- <p>Email:</p>
+  <a href="https://github.com/JanisonMendes">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JanisonMendes&show_icons=true&theme=dark"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&theme=dark"/>
   </a>
- 
- <a href="mailto: janisonmedes1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>
+</p>
+
+---
+
+## 📁 Projetos em Destaque
+
+### 📌 Análise de Vendas com SQL
+- Consultas SQL para análise de faturamento
+- Uso de `GROUP BY`, `JOIN`, `CTE`
+- Insights sobre produtos mais rentáveis  
+
+### 📌 Análise Exploratória de Dados com Python
+- Limpeza e tratamento de dados
+- Visualizações para identificação de padrões
+- Geração de insights acionáveis  
+
+### 📌 Dashboard de Indicadores
+- KPIs de negócio
+- Visualização interativa no Power BI / Tableau
+- Apoio à tomada de decisão  
+
+---
+
+## 🎯 Objetivo Profissional
+Atuar como **Analista de Dados**, utilizando dados para gerar insights, otimizar processos e apoiar decisões estratégicas.
+
+---
+
+## 📫 Contato
+<div>
+  <a href="https://www.linkedin.com/in/janison-mendes-01b8a0205/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:janisonmedes1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
-
-
