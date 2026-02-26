@@ -48,4 +48,15 @@ Sou apaixonado por transformar dados brutos em ativos estratégicos. O meu foco 
 </div>
 
 ---
+
+### ⚡ Um pouco mais sobre mim...
+
+- 🔭 **Foco Atual:** Desenvolvendo um projeto robusto de análise exploratória para aprofundar meus conhecimentos em **SQL** e modelagem de bancos de dados.
+- 🧠 **Estudos:** Mergulhando no universo de **Machine Learning** e **Inteligência Artificial** para criar modelos preditivos mais precisos.
+- 📚 **Fora dos Dados:** Sou apaixonado por leitura e fã de séries criminais (quem não gosta de uma boa investigação, né? 👀).
+- 🎸 **Música:** Essencial na minha rotina, seja para concentrar ou para relaxar.
+- 🏋️ **Lifestyle:** Frequento a academia regularmente para manter o equilíbrio entre mente e corpo.
+- 🍫 **Curiosidade:** Diferente de 99% dos devs, eu **não tomo café**! Meu código é movido a **Nescau**. 🥤🥛
+
+---
 *"In God we trust; all others must bring data."*
