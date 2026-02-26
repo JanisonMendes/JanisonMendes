@@ -35,7 +35,7 @@ Sou apaixonado por transformar dados brutos em ativos estratégicos. O meu foco 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JanisonMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&langs_count=10&theme=dark&hide_progress=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanisonMendes&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ---
