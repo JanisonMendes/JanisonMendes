@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Janison Mendes" width="100%">
+  <img src="https://raw.githubusercontent.com/JanisonMendes/JanisonMendes/main/header.png" alt="Janison Mendes" width="100%">
 </div>
 
 # Olá, eu sou o Janison Mendes! 👋
